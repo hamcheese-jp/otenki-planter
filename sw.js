@@ -1,7 +1,7 @@
 // おてんきプランター ウェブアプリ版のサービスワーカー
 // いつもは新しいファイルを取りにいき（すぐ新しい版になる）、電波がないときだけ取っておいたものを出す。
 // サーバー（GAS）や天気への問い合わせは取っておかない。
-const CACHE = 'otenki-mw2u4lbd';
+const CACHE = 'otenki-mw4nyfuv';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 
 self.addEventListener('install', e => {
